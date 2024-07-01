@@ -1,8 +1,8 @@
 ---
 name: Développement de nouveau Features
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: Documentation
+labels: documentation
 assignees: ''
 
 ---
